@@ -24,4 +24,5 @@ function Todo(props){ //props --> key (text) value (title name) pair of the data
   </div>);
 }
 
+
 export default Todo;
